@@ -1,5 +1,3 @@
-Author: Panda
-
 # Credit Card Fraud Detection 
 
 
